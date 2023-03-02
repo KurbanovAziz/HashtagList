@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HashtagList</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="input_text">Введите текст</string>
+</resources>
